@@ -1,2 +1,10 @@
 # autotype.txt
-Autotype.txt is a file you can add to the root of your file so you can get better search results and meta types.
+
+### Autotype.txt Example:
+```
+ALL OTHER TEXT WILL BE IGNORED.  MUST BE IN STRINGS.
+'siteName' 'helloMusic' The Name of The Website
+'siteGenre' 'Music'  The Site Genre
+'keywords' 'hello,music,free music' The keywords.  Sperated by ','
+'siteInclude' 'helloWorld.txt@helloWorld.html' 
+```
